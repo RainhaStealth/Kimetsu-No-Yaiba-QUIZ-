@@ -8,19 +8,15 @@ O projeto será inspirado nos sites "narutodle.net", "onepiecedle.net" e "Wordle
 
 
 # Como Jogar Kimetsudle?
-    Informações Gerais: adivinhe um personagem, katana, olhos e respiração do anime/mangá Kimetsu No Yaiba.
-    Desafie-se neste divertido e interativo jogo de personagens. Teste seus conhecimentos sobre anime enquanto joga. Você consegue adivinhar o personagem? Junte-se à emoção e veja o quão bem você conhece o mundo de "Kimetsu no Yaiba".
+Informações Gerais: adivinhe um personagem, katana, olhos e respiração do anime/mangá Kimetsu No Yaiba.
+Desafie-se neste divertido e interativo jogo de personagens. Teste seus conhecimentos sobre anime enquanto joga. Você consegue adivinhar o personagem? Junte-se à emoção e veja o quão bem você conhece o mundo de "Kimetsu no Yaiba".
 
 
 
 
 
 
-
-
-
-
-
-# Demon Slayer: Kimetsu no Yaiba é uma marca registrada, que não endossa nem patrocina esse projeto.
+# Demon Slayer: 
+Kimetsu no Yaiba é uma marca registrada, que não endossa nem patrocina esse projeto.
 
 # Desenvolvido por Maria Eduarda Moreira, Evandro Marques, Kerolin Antônia Marcolina dos Santos, Bianca Pacheco e Gabriel Minervini.
