@@ -16,7 +16,6 @@ Desafie-se neste divertido e interativo jogo de personagens. Teste seus conhecim
 
 
 
-# Demon Slayer: 
-Kimetsu no Yaiba é uma marca registrada, que não endossa nem patrocina esse projeto.
+Demon Slayer: Kimetsu no Yaiba é uma marca registrada, que não endossa nem patrocina esse projeto.
 
 # Desenvolvido por Maria Eduarda Moreira, Evandro Marques, Kerolin Antônia Marcolina dos Santos, Bianca Pacheco e Gabriel Minervini.
