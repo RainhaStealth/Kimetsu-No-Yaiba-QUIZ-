@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Itim&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/*Geral */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Itim', cursive;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+  }
+  
+  .fundo {
+    background: url('./img/tanjiro.jpg') no-repeat center center/cover;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+
+  .resp {
+    width: 25%
+  }
+  
+  .eyes {
+    width: 30%;
+  }
+
+  .nichirin {
+    width: 35%
+  }
+
+  .classic {
+    width: 40%;
+  }
+  
+  /* Cabeçalho */
+  header {
+    padding-top: 2rem;
+  }
+  
+  .logo {
+    max-width: 200px;
+  }
+  
+  h1 {
+    margin-top: 1rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  
+  /* Menu */
+  .menu {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+  }
+  
+  .menu-item {
+    background: rgba(0, 0, 0, 0.8);
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+    padding: 1rem 2rem;
+    width: 80%;
+    max-width: 400px;
+    display: flex;
+    text-align: left;
+    cursor: pointer;
+    transition: transform 0.3s, background 0.3s;
+  }
+  
+  .menu-item:hover {
+    background: #be8d81;
+    transform: scale(1.05);
+  }
+  
+  .box-img {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 25%;
+  }
+
+  .box-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+  }
+  
+  .box-img img {
+    width: 90px;
+  }
+  
+  .menu-item h2 {
+    font-size: 1.5rem;
+    font-weight: 200;
+    margin: 0;
+  }
+  
+  .menu-item p {
+    margin: 0;
+    font-size: 1rem;
+    color: #ddd;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: white;
+    margin-top: 2rem;
+  }
+
+
+
+  /* Seção principal das páginas específicas */
+  .game-section {
+    margin: 20px auto;
+    max-width: 600px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+  }
+  
+  .game-section h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
+  
+  #character-image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    outline: none;
+  }
+  
+  button {
+    background: #c52400;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    transition: background-color 0.3s, color 0.3s
+  }
+  
+  button:hover {
+    background: #ff5d39;
+  }
+  
+  #feedback {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  /* Responsividade para telas específicas */
+  @media (max-width: 768px) {
+    header h1 {
+      font-size: 2rem;
+    }
+  
+    .game-section {
+      max-width: 90%;
+    }
+  
+    input[type="text"] {
+      width: 100%;
+    }
+  
+    button {
+      width: 100%;
+      padding: 10px;
+    }
+  }
+
+  /* votlar ao menu bla bla lbalbla */
+  nav a {
+    text-decoration: none;
+    color: white;
+    background-color: #4b0f01;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  nav a:hover {
+    background-color: #c52400;
+  }
+  
